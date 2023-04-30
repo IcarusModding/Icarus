@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Grekit",
+	"Description": "Pak your Icarus mods and copy them to the game folder",
+	"Category": "Modding",
+	"CreatedBy": "Originally created by Mircea Roata (Grekit)",
+	"CreatedByURL": "",
+	"DocsURL": "https://projectdaedalus.app/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Grekit",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

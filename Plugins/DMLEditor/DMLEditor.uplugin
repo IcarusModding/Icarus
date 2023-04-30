@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "DML Editor",
+	"Description": "Daedalus Mod Loader: Editor Module",
+	"Category": "Modding",
+	"CreatedBy": "Linkarus Team",
+	"CreatedByURL": "https://github.com/Icarus-Modding/DaedalusModLoader",
+	"DocsURL": "https://projectdaedalus.app",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DMLEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

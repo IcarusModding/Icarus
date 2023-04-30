@@ -1,0 +1,16 @@
+{
+	"configurations": [
+		{
+			"name": "IcarusEditor Editor Win64 Development (Icarus)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus.json",
+			"includePath": [ "${workspaceFolder}\\Intermediate\\**", "[Workspace Folder]\\Plugins\\**", "[Workspace Folder]\\Source\\**" ]
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Default.json",
+			"includePath": [ "${workspaceFolder}\\Intermediate\\**", "[Workspace Folder]\\Plugins\\**", "[Workspace Folder]\\Source\\**" ]
+		}
+	]
+}

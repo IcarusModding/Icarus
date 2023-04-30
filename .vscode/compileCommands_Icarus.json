@@ -1,0 +1,1782 @@
+[
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\AbstractInstance.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Private\\\\AbstractInstance.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Private\\\\AbstractInstanceExampleActor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Private\\\\AbstractInstanceInterface.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Private\\\\AbstractInstanceManager.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Private\\\\InstanceData.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Public\\\\AbstractInstance.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Public\\\\AbstractInstanceExampleActor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Public\\\\AbstractInstanceInterface.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Public\\\\AbstractInstanceManager.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AbstractInstance\\\\Source\\\\AbstractInstance\\\\Public\\\\InstanceData.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AbstractInstance.11.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\AssetDumper.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\AssetDumperModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\AssetDumpConsoleWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\AssetDumperCommands.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\AssetDumperWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\AssetDumpProcessor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\AssetRegistryViewWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetDumping\\\\SerializationContext.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\AnimationBlueprintAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\AnimationMontageAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\AnimationSequenceAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\AssetHelper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\AssetTypeSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\BlendSpaceAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\BlueprintAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\CameraAnimAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\CurveBaseAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\CurveLinearColorAtlasAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\DataTableAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\FbxDataConverter.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\FbxMeshExporter.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\FileMediaSourceAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\FontAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\FontFaceAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\LandscapeGrassTypeSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MaterialAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MaterialFunctionAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MaterialInstanceAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MaterialParameterCollectionAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MediaPlayerAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\MediaTextureAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\PhysicalMaterialAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\SkeletalMeshAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\SkeletonAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\StaticMeshAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\StringTableAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\SubsurfaceProfileAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\Texture2DArrayAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\TextureAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\TextureCubeAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\TextureDecompressor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\UserDefinedEnumAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\UserDefinedStructAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\AssetTypes\\\\UserWidgetAssetSerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\KismetBytecodeDisassemblerJson.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\NativeClassDumping\\\\NativeClassDumperCommands.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\NativeClassDumping\\\\NativeClassDumpProcessor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\ObjectHierarchySerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\PropertySerializer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Toolkit\\\\PropertyTypeHelper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Util\\\\GameEditorHelper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Private\\\\Util\\\\WindowsFileDialogHelper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\AssetDumperModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetDumpConsoleWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetDumperCommands.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetDumperWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetDumpProcessor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetRegistryViewWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetTypeSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\AssetTypeSerializerMacros.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetDumping\\\\SerializationContext.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\AnimationBlueprintAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\AnimationMontageAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\AnimationSequenceAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\AssetHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\BlendSpaceAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\BlueprintAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\CameraAnimAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\CurveBaseAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\CurveLinearColorAtlasAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\DataTableAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\FbxDataConverter.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\FbxMeshExporter.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\FileMediaSourceAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\FontAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\FontFaceAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\LandscapeGrassTypeAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MaterialAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MaterialFunctionAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MaterialInstanceAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MaterialParameterCollectionAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MediaPlayerAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\MediaTextureAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\PhysicalMaterialAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\SkeletalMeshAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\SkeletonAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\StaticMeshAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\StringTableAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\SubsurfaceProfileAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\Texture2DArrayAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\TextureAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\TextureCubeAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\TextureDecompressor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\UserDefinedEnumAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\UserDefinedStructAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\AssetTypes\\\\UserWidgetAssetSerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\KismetBytecodeDisassemblerJson.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\NativeClassDumping\\\\NativeClassDumperCommands.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\NativeClassDumping\\\\NativeClassDumpProcessor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\ObjectHierarchySerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\PropertySerializer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Toolkit\\\\PropertyTypeHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Util\\\\FileDialogHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetDumper\\\\Source\\\\AssetDumper\\\\Public\\\\Util\\\\GameEditorHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetDumper.12.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\AssetGenerator.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\AssetGeneration\\\\KismetBytecodeTransformer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\AssetGeneration\\\\KismetGraphDecompiler.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\AssetGeneratorModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetDumpViewWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetGenerationProcessor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetGenerationUtil.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetGeneratorCommandlet.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetGeneratorWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\AssetTypeGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetGeneration\\\\PublicProjectStubHelper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimBlueprintGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimMontageGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimSequenceGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\BlendSpaceGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\BlueprintGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\CameraAnimGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\CurveBaseGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\CurveLinearColorAtlasGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\DataTableGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\FontFaceGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\FontGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\LandscapeGrassTypeGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialInstanceGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialParameterCollectionGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\MediaAssetsGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\PhysicalMaterialGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SimpleAssetGen.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SimpleAssetGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SkeletalMeshGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SkeletonGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SoundCueGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\StaticMeshGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\StringTableGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\SubsurfaceProfileGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\Texture2DArrayGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\Texture2DGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\TextureCubeGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\TextureGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\UserDefinedEnumGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\UserDefinedStructGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Private\\\\Toolkit\\\\AssetTypeGenerator\\\\UserWidgetGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneration\\\\AssetGeneratorLocalSettings.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneration\\\\AssetGeneratorSettings.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneration\\\\KismetBytecodeTransformer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneration\\\\KismetGraphDecompiler.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneration\\\\KismetIntermediateFormat.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\AssetGeneratorModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetDumpViewWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetGenerationProcessor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetGenerationUtil.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetGeneratorCommandlet.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetGeneratorWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\AssetTypeGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetGeneration\\\\PublicProjectStubHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimBlueprintGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimMontageGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\AnimSequenceGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\BlendSpaceGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\BlueprintGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\CameraAnimGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\CurveBaseGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\CurveLinearColorAtlasGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\DataTableGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\FontFaceGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\FontGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\LandscapeGrassTypeGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialInstanceGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\MaterialParameterCollectionGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\MediaAssetsGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\PhysicalMaterialGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SimpleAssetGen.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SimpleAssetGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SkeletalMeshGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SkeletonGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SoundCueGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\StaticMeshGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\StringTableGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\SubsurfaceProfileGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\Texture2DArrayGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\Texture2DGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\TextureCubeGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\TextureGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\UserDefinedEnumGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\UserDefinedStructGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\AssetGenerator\\\\Source\\\\AssetGenerator\\\\Public\\\\Toolkit\\\\AssetTypeGenerator\\\\UserWidgetGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\AssetGenerator.13.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\DML.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\CodeGeneration\\\\ConfigGeneratedStruct.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\CodeGeneration\\\\ConfigGenerationContext.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\CodeGeneration\\\\ConfigVariableDescriptor.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\CodeGeneration\\\\ConfigVariableLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\ConfigManager.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\ConfigProperty.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\ModConfiguration.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyArray.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyBool.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyClass.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyFloat.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyInteger.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertySection.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\ConfigPropertyString.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Array.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Bool.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Class.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Float.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Integer.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Section.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_String.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\RawFileFormat\\\\Json\\\\JsonRawFormatConverter.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Configuration\\\\RootConfigValueHolder.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\DaedalusModLoader.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\DMLConfiguration.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\DMLModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\ModLoading\\\\ModContentRemapper.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\ModLoading\\\\ModLoadingLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\ModLoading\\\\PluginModuleLoader.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\GameInstanceModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\GameInstanceModuleManager.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\GameWorldModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\ModModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\WorldModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Module\\\\WorldModuleManager.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Reflection\\\\BlueprintReflectedObject.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Reflection\\\\BlueprintReflectionLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Reflection\\\\ClassGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Registry\\\\ModContentRegistry.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Registry\\\\ModKeyBindRegistry.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Registry\\\\RemoteCallObjectRegistry.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Subsystem\\\\ModSubsystem.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Subsystem\\\\SubsystemActorManager.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Toolkit\\\\KismetBytecodeDisassembler.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Toolkit\\\\PropertyTypeHandler.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\BlueprintAssetHelperLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\BlueprintLoggingLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\BlueprintVersionLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\EngineUtil.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\ImageLoadingUtil.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\RuntimeBlueprintFunctionLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\SemVersion.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\ThirdParty\\\\miniz.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Private\\\\Util\\\\ZipFile\\\\ZipFile.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\CodeGeneration\\\\ConfigGeneratedStruct.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\CodeGeneration\\\\ConfigGenerationContext.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\CodeGeneration\\\\ConfigVariableDescriptor.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\CodeGeneration\\\\ConfigVariableLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\ConfigManager.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\ConfigProperty.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\ConfigValueDirtyHandlerInterface.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\ModConfiguration.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyArray.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyBool.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyClass.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyFloat.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyInteger.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertySection.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\ConfigPropertyString.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Array.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Bool.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Class.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Float.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Integer.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_Section.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\Properties\\\\WidgetExtension\\\\CP_String.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\Json\\\\JsonRawFormatConverter.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValue.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValueArray.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValueBool.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValueNumber.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValueObject.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RawFileFormat\\\\RawFormatValueString.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Configuration\\\\RootConfigValueHolder.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\DaedalusModLoader.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\DMLConfiguration.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\DMLModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\ModLoading\\\\ModContentRemapper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\ModLoading\\\\ModLoadingLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\ModLoading\\\\PluginModuleLoader.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\GameInstanceModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\GameInstanceModuleManager.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\GameWorldModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\MenuWorldModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\ModModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\WorldModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Module\\\\WorldModuleManager.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Reflection\\\\BlueprintReflectedObject.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Reflection\\\\BlueprintReflectionLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Reflection\\\\ClassGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Reflection\\\\ReflectionHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Registry\\\\ModContentRegistry.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Registry\\\\ModKeyBindRegistry.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Registry\\\\RemoteCallObjectRegistry.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Subsystem\\\\ModSubsystem.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Subsystem\\\\SubsystemActorManager.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Toolkit\\\\KismetBytecodeDisassembler.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Toolkit\\\\PropertyTypeHandler.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\BlueprintAssetHelperLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\BlueprintLoggingLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\BlueprintVersionLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\BoilerplateHelper.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\EngineUtil.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\ImageLoadingUtil.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\ObjectMetadata.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\RuntimeBlueprintFunctionLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\SemVersion.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\TopologicalSort\\\\DirectedGraph.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\TopologicalSort\\\\TopologicalSort.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DML\\\\Source\\\\DML\\\\Public\\\\Util\\\\ZipFile\\\\ZipFile.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DML.9.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\DMLEditor.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\CodeGeneration\\\\NativeCodeGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\CodeGeneration\\\\UserDefinedStructCodeGenerator.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\DMLEditorModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\Node\\\\K2Node_GetModConfiguration.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\Test\\\\VersionTest.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Private\\\\Utils\\\\EditorBlueprintFunctionLibrary.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Public\\\\CodeGeneration\\\\NativeCodeGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Public\\\\CodeGeneration\\\\UserDefinedStructCodeGenerator.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Public\\\\DMLEditorModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Public\\\\Node\\\\K2Node_GetModConfiguration.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\DMLEditor\\\\Source\\\\DMLEditor\\\\Public\\\\Utils\\\\EditorBlueprintFunctionLibrary.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\DMLEditor.10.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Grekit.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\Grekit.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitCommands.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitModEntry.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitModEntryList.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitSettings.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitStyle.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Private\\\\GrekitWidget.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\Grekit.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitCommands.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitModEntry.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitModEntryList.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitSettings.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitStyle.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Plugins\\\\Grekit\\\\Source\\\\Grekit\\\\Public\\\\GrekitWidget.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Grekit.8.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Source\\\\Icarus\\\\Icarus.Build.cs",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Icarus.222.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Source\\\\Icarus\\\\Private\\\\Icarus.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Icarus.222.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Source\\\\Icarus\\\\Private\\\\IcarusModule.cpp",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Icarus.222.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Source\\\\Icarus\\\\Public\\\\Icarus.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Icarus.222.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UE\\\\Projects\\\\DaedalusModLoader\\\\Source\\\\Icarus\\\\Public\\\\IcarusModule.h",
+		"command": "D:\\Programs\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe @\"G:\\UE\\Projects\\DaedalusModLoader\\.vscode\\compileCommands_Icarus\\Icarus.222.rsp\"",
+		"directory": "G:\\UE\\UE_4.27\\Engine\\Source"
+	}
+]

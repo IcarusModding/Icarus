@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Daedalus Mod Loader",
+	"Description": "Mod loading and compatibility API for Icarus",
+	"Category": "Modding",
+	"CreatedBy": "Linkarus Team",
+	"CreatedByURL": "https://github.com/Icarus-Modding/DaedalusModLoader",
+	"DocsURL": "https://projectdaedalus.app",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DML",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		}
+	]
+}
